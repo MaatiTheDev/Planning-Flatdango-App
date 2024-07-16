@@ -1,0 +1,1 @@
+Flatdango planning app is my original web application for purchasing movie tickets from the Flatiron Movie Theater. The app allows users to browse online available movies, view details about each movie, and purchase tickets and shows the number of tickes avalble in case you are intrested in purchasing ticket and displays the routine time for ticket purchase
